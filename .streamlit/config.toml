@@ -1,0 +1,5 @@
+[server]
+port = 85
+
+[theme]
+textColor = "#4682B4"
